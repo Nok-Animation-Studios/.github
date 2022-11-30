@@ -1,7 +1,7 @@
 # Our Stacks
 * 3D Animation
 * Visual Effects (VFX)
-* Games
+* Game Development
 
 [LinkedIn](https://www.linkedin.com/company/nok-animation-studios)
 
